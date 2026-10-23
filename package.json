@@ -1,0 +1,14 @@
+{
+  "name": "kaskita-mvp",
+  "version": "1.0.0",
+  "description": "Mockup MVP KasKita - aplikasi manajemen keuangan untuk mahasiswa",
+  "scripts": {
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
